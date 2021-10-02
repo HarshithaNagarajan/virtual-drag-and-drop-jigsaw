@@ -13,12 +13,12 @@ _src_ contains a README on how to use this project.
 ├── input images            # Sample images that were used.
 │   ├── i1.jpg        
 │   ├── i2.jpg   
-├── README.md               # A top-level README for those interested in using this project.
 ├── src                     # Source code used in this project.
     ├── create_jigsaw.py    # Creates the jigsaw out of the input image.
     ├── images.py           # Describes the characteristics of each constituent piece.
     ├── main.py             # Executes the project.
     ├── run.py              # Contains utility functions needed once the game has begun. 
+├── README.md               # A top-level README for those interested in using this project.
 ```
 
 ## Required
