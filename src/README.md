@@ -1,10 +1,10 @@
-## How to play?
-1. Download and store all files present in **_src_** locally.
+## :mag: How to play?
+1. Download and store all files present in `src` locally.
 2. Mention paths as per your directory in:
    1. _main.py_
    2. _create_jigsaw.py_
-3. Change the number of pieces you'd like in your puzzle by varying the value of **_parts_** in _main.py_
-4. Run _main.py_
+3. Change the number of pieces you'd like in your puzzle by varying the value of **_parts_** in `main.py`
+4. Run `main.py`
    1. Two pop-up windows should appear on the screen (may take a while)
       1. A preview of the _**goal image**_
       2. A window displaying **_live camera feed_**
