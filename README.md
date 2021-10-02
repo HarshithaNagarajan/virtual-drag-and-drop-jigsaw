@@ -18,7 +18,8 @@ _src_ contains a README on how to use this project.
     ├── images.py           # Describes the characteristics of each constituent piece.
     ├── main.py             # Executes the project.
     ├── run.py              # Contains utility functions needed once the game has begun. 
-├── README.md               # A top-level README for those interested in using this project.
+    ├── README.md               # Set of instructions on how to use this project and play the game.
+├── README.md               # A top-level README about this project.
 ```
 
 ## Required
