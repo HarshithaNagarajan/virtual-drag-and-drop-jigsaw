@@ -1,4 +1,4 @@
-## How to play
+## How to play?
 1. Download and store all files present in **_src_** locally.
 2. Mention paths as per your directory in:
    1. _main.py_
