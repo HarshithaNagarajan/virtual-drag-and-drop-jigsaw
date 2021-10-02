@@ -1,4 +1,4 @@
-# virtual-drag-and-drop-jigsaw
+# Virtual drag-and-drop jigsaw using OpenCV
 
 ## About
 Jigsaw puzzles were always fun to solve. This project was aimed at recreating the explerience virtually, using Computer Vision. The game can be played by dragging constituent square-shaped pieces of an image virtually, to complete the correct order of arrangement as per the original image. 
