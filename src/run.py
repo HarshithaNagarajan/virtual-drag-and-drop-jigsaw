@@ -168,7 +168,7 @@ def start_game(name, parts, path):
         cv2.imshow('SOLVE!', img)
         cv2.imshow('GOAL', goal_img)
 
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(10) & 0xFF == ord('q'):
             break
 
     cap.release()
