@@ -5,7 +5,7 @@
    2. _create_jigsaw.py_
 3. Change the number of pieces you'd like in your puzzle by varying the value of **_'parts'_** in `main.py`
 4. Run `main.py`
-   1. Two pop-up windows should appear on the screen (may take a while)
+   * Two pop-up windows should appear on the screen (may take a while)
       1. A preview of the _**goal image**_
       2. A window displaying **_live camera feed_**
       * **The second window contains the puzzle:** A central, fixed reference piece towards the right, and shuffled pieces to the left
