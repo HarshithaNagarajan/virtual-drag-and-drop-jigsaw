@@ -18,6 +18,6 @@
      1. Increase the distance between the second and third figures to 'place' the piece at a location 
 6. Assemble all pieces in order
 7. Press _'d'_ on your keyboard once done, to check if the puzzle has been solved correctly
-  * Suitable text prompts are displayed according to whether the puzzle has been solved correctly or incorrectly
+   * Suitable text prompts are displayed according to whether the puzzle has been solved correctly or incorrectly
 8. Press _'q'_ to quit (may take a while)
 
